@@ -25,6 +25,24 @@ A Color Switch game component that creates an engaging endless runner game. The 
    
   ![canvas](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GameCanvas_Set_Property.png)
 
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GameSpeed_Set_Property.png)
+
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetCameraY_Method.png)
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
 ## <kbd>Methods:</kbd>
 **ColorSwitch** has total 12 methods.
 
