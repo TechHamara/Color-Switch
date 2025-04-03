@@ -9,11 +9,21 @@ A Color Switch game component that creates an engaging endless runner game. The 
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.colorswitch.colorswitch
-💾 **Size:** 25.54 KB
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-03-19 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.7.0`
+📦 **Package:** io.th.colorswitch.colorswitch<br>
+💾 **Size:** 28.07 KB<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-04-03 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.1`
+
+<br>
+<br>
+
+## ScreenShots
+
+![photo_2025-04-03_18-49-51](https://github.com/user-attachments/assets/2fcd68df-c929-4427-bd16-c85daa41f09f)
+![photo_2025-04-03_18-50-07](https://github.com/user-attachments/assets/1e3e0d73-46ce-4aac-9335-fc39c850b65c)
+
+<br>
 
 ## Demo
 
@@ -23,34 +33,32 @@ A Color Switch game component that creates an engaging endless runner game. The 
 
 
 ## Blocks 
+
+![BackgroundColor_Set_Property](https://github.com/user-attachments/assets/9e1e6664-25a8-4bca-bd1d-4c247f396b12)
+![HighScore_Get_Property](https://github.com/user-attachments/assets/2164523a-62cd-4e0f-9b6e-8dc6f81d385e)
+![GameSpeed_Set_Property](https://github.com/user-attachments/assets/bb2d1b1c-9296-447f-ae0d-cffb301878d2)
+![GameCanvas_Set_Property](https://github.com/user-attachments/assets/78544587-d9f5-472b-9520-689f415ae6cd)
+
+   -----
    
-  ![canvas](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GameCanvas_Set_Property.png)
+![Difficulty_Method](https://github.com/user-attachments/assets/25e5da44-395c-4bd2-8ede-9176ebfc0785)
+![HandleTouch_Method](https://github.com/user-attachments/assets/3f89e841-f225-4ac2-b486-7e0358a395e0)
+![PauseGame_Method](https://github.com/user-attachments/assets/cb08ad30-42b1-448a-b4e2-33dd764f4c5c)
+![ResetHighScore_Method](https://github.com/user-attachments/assets/01306e05-0dda-4963-9603-f8512e103f83)
+![ResumeGame_Method](https://github.com/user-attachments/assets/cc310bfc-1111-4f55-bf2a-b884248fd7b1)
+![StartGame_Method](https://github.com/user-attachments/assets/06ed68a3-342b-40f4-90d7-e9358ec52a3f)
 
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GameSpeed_Set_Property.png)
+-----
 
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetCameraY_Method.png)
+![IsPaused_Method](https://github.com/user-attachments/assets/1830daff-3b9e-4c8f-93a5-15e28a53ed92)
+![IsGameOver_Method](https://github.com/user-attachments/assets/b3f308cd-e6e7-4fa6-af7d-eb9dc382491b)
+![CameraY_Method](https://github.com/user-attachments/assets/00f2a956-e768-463b-af6d-4a11fb00e090)
+![Score_Method](https://github.com/user-attachments/assets/da853a0c-c8ca-46f0-98a0-567b8643635a)
+![PlayerY_Method](https://github.com/user-attachments/assets/6c3a57d6-86b9-4834-b5d4-5f594732898b)
+![IsRunning_Method](https://github.com/user-attachments/assets/9ba2ce23-e084-448c-92e9-c29745964a97)
 
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetPlayerY_Method.png)
 
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetScore_Method.png)
 
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/HandleTouch_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsGameOver_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsPaused_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsRunning_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/PauseGame_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/ResetHighScore_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/ResumeGame_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/SetDifficulty_Method.png)
-
-![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/StartGame_Method.png)
 
 ## <kbd>Methods:</kbd>
 **ColorSwitch** has total 12 methods.
@@ -61,7 +69,7 @@ Start or restart the game. Call this method to begin playing.
 ### 💜 HandleTouch
 Handle touch events - call this method when the Canvas is touched
 
-### 💜 GetScore
+### 💜 Score
 Get the current score
 
 ### 💜 IsRunning
@@ -79,14 +87,14 @@ Resume the game
 ### 💜 IsPaused
 Check if the game is paused
 
-### 💜 GetPlayerY
+### 💜 PlayerY
 Get the player's current Y position
 
-### 💜 GetCameraY
+### 💜 CameraY
 Get the camera's current Y position
 
-### 💜 SetDifficulty
-Set game difficulty (speed multiplier). Example: SetDifficulty(1.5) sets the game speed to 1.5 times the normal speed.
+### 💜 Difficulty
+Set game difficulty (speed multiplier)
 
 | Parameter | Type
 | - | - |
@@ -96,15 +104,23 @@ Set game difficulty (speed multiplier). Example: SetDifficulty(1.5) sets the gam
 Reset high score
 
 ## <kbd>Setters:</kbd>
-**ColorSwitch** has total 2 setter properties.
+**ColorSwitch** has total 3 setter properties.
 
 ### 💚 GameCanvas
 Set the canvas Component for drawing the game
 
 * Input type: `component`
 
+### 💚 BackgroundColor
+Set the background color for the game
+
+* Input type: `text`
+
 ### 💚 GameSpeed
 Property for GameSpeed
 
 * Input type: `number`
+
+## Thanks 
+   TechHamara
 
