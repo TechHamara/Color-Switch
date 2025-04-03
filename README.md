@@ -17,9 +17,7 @@ A Color Switch game component that creates an engaging endless runner game. The 
 
 ## Demo
 
-
 ![cd5cc140-26d2-40f6-92c9-84ec06b069c1.gif](https://github.com/user-attachments/assets/fe262819-7811-4f55-b7aa-6d5909568f86)
-
 
 ![15413532-2c35-4b00-9075-4bac1b1f8e1b.gif](https://github.com/user-attachments/assets/56219680-13ee-48a5-96b7-07910e6d0517)
 
