@@ -29,19 +29,27 @@ A Color Switch game component that creates an engaging endless runner game. The 
 
 ![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetCameraY_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetPlayerY_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GetScore_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/HandleTouch_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsGameOver_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsPaused_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/IsRunning_Method.png)
 
-![]()
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/PauseGame_Method.png)
+
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/ResetHighScore_Method.png)
+
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/ResumeGame_Method.png)
+
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/SetDifficulty_Method.png)
+
+![](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/StartGame_Method.png)
 
 ## <kbd>Methods:</kbd>
 **ColorSwitch** has total 12 methods.
