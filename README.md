@@ -21,7 +21,9 @@ A Color Switch game component that creates an engaging endless runner game. The 
 
 ![15413532-2c35-4b00-9075-4bac1b1f8e1b.gif](https://github.com/user-attachments/assets/56219680-13ee-48a5-96b7-07910e6d0517)
 
-
+## Blocks 
+   
+  ![canvas](https://github.com/TechHamara/Color-Switch/blob/main/ColorSwitch/GameCanvas_Set_Property.png)
 
 ## <kbd>Methods:</kbd>
 **ColorSwitch** has total 12 methods.
